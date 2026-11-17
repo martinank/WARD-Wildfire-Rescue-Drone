@@ -7,11 +7,8 @@ Innovation University – Faculty of Computers and Information Technology
 
 ## Team
 
-| Name | ID |
-|------|----|
-| _Team leader name_ | _ID_ |
-| _Member 2_ | _ID_ |
-| _Member 3_ | _ID_ |
+Individual work
+Name: Martina Nasser Kamal
 
 ---
 
